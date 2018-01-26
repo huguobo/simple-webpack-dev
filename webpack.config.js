@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   // JavaScript 执行入口文件
-  entry: './src/javascript/index.js',
+  entry: './src/index.js',
   output: {
     // 把所有依赖的模块合并输出到一个 bundle.js 文件
     filename: 'bundle.js',

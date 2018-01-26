@@ -69,7 +69,7 @@
 
 const hello =__webpack_require__(1);
 
-hello('zyy');
+hello('huguobo');
 
 /***/ }),
 /* 1 */
